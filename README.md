@@ -65,7 +65,7 @@ test/
    ```
 
 2. **Install dependencies**
-   bash
+   ```bash
    flutter pub get
    ```
 
